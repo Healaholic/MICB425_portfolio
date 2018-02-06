@@ -1,0 +1,64 @@
+---
+title: "Evidence_worksheet_01"
+author: "Ian Lee"
+student number: "44968139"
+date: "6th Feb 2018"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Evidence Worksheet for "Prokaryotes: The Unseen Majority"
+
+
+### Learning Objectives
+Describe the numerical abundance of microbial life in relation to ecology and biogeochemistry of Earth systems.
+
+
+### General Questions
+#### What were the main questions being asked?
+
+Given the abundance of prokaryotes on earth,
+how do we calculate the total carbon mass, nitrogen mass,
+phosphorus mass, number of organisms, and where are they mostly found?
+
+#### What were the primary methodological approaches used?
+
+The earth was divided into a series of environments by which a series of calculations were applied to
+estimate the total number of organisms based on average abundances within a fixed volume of area.
+Each environment was studied and referenced for each estimate generated.
+In addition, assumptions were applied to standardize the distribution of prokaryotes over a given environmental niche.
+
+
+#### Summarize the main results or findings. 
+
+Prokaryotes number from 4-6 X10^30 cells,
+amounting to 350-550 Pg of carbon, amounting to about half of earth's total biomass.
+Prokaryotes contain more nutrients than plants, consisting the largest nutrient source on earth.
+Prokaryotes are found mainly in the ocean, soil, and in subsurface masses in the earth's crust.
+
+#### Do new questions arise from the results?
+
+Should our calculations of earth's total biomass be revised to account non-uniformity in terrain?
+Could different continental areas contain significantly different densities of microbes?
+Are there yet still environments where prokaryotes exist that we have yet to discover?
+
+
+#### Were there any specific challenges or advantages in understanding the paper (e.g. did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)? 
+
+The results of the paper rely on many other studies who's calculations or estimates may not be very accurate.
+This as we understand is the "best estimate" scenario given the current literature and technology at that time.
+Many assumptions were used to arrive at the final figure of the calculations, and not all the assumptions were
+justified.
+Although, the figures presented were argued to be within a certain order of magnitude of accuracy,
+which is telling of the precision of the calculations that were performed. The authors answered the research
+questions by first accounting for the largest environmental contributors to prokaryotic count, and then moved into
+more specific environments that did not contribute heavily to changes in the overall cell and mass counts, despite
+being rather large in magnitude.
+Figures and tables summarized the counts gathered from each environment,
+on which the overall calculations were based.
+They were in general easy to understand but left out key variations that I believe are crucial in the final result.
+

@@ -1,0 +1,87 @@
+---
+title: "Evidence_worksheet_02"
+author: "Ian Lee (44968139)"
+date: "version `r format(Sys.time(), '%B %d, %Y')`"
+output: html_document
+---
+### Evidence Worksheet_02 "Life and the Evolution of Earth's Atmosphere"
+#### Learning objectives: 
+Comment on the emergence of microbial life and the evolution of Earth systems
+    
+    
+* Indicate the key events in the evolution of Earth systems at each approximate moment in the time series. If times need to be adjusted or added to the timeline to fully account for the development of Earth systems, please do so. 
+
+    + 4.6 billion years ago  
+    Moon formation gives earth its spin
+and tilt. High global temperature
+Zircon formation (oldest known) 4.4 Ga
+    + 4.2 billion years ago  
+    late heavy bombardment
+    Slight evidence of life in zircon
+4.1 Ga through graphite.
+    + 3.8 billion years ago  
+    Plate subduction
+    + 3.75 billion years ago  
+    Water present only
+as vapour.
+    + 3.5 billion years ago  
+    Methagen proliferation giving a
+very warm earth
+much dimmer sun back then.
+Methanogenesis
+Photosynthesis began during
+this period.Rubisco evidence here.
+Proper evidence of life at 3.5 Ga
+    + 3.0 billion years ago  
+    First glaciation
+oxygen in the atmosphere decreases
+greenhouse effect.Life is mostly underwater at this point
+    + 2.7 billion years ago  
+    Gene transfer was probably the primary mechanism
+for new adaptations to be formed
+De novo synthesis of new genes not very likely.
+    + 2.2 billion years ago  
+    Life on land. First indication of eukaryotic life during this
+period. Second glaciation and
+carbon explosion.
+    + 2.1 billion years ago
+    Symbiosis manifestation
+    Mitochondrial and chloroplast
+complexity increase. Rocks recognized as red beds, O2 levels
+increase due to eukaryotes evolving to
+produce O2.
+    + 1.3 billion years ago
+    Snowball earth 1 billion years ago
+    + 550,000 years ago
+    Emergence and development of
+complex plants 0.4Ma, fish, insects and
+tetrapods on land
+Greatest ecological diversity during this period
+Rapid expansion and evolution
+Permean extinction (95% of all life)
+    + 200,000 years ago
+Humans arise
+
+* Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
+
+    + Hadean  
+    Formation of the solar system
+    + Archean  
+    Meteorite
+bombardment and cessation
+leads to sea water formation
+sedimentary rock formation
+    + Precambrian  
+    Gene transfer was probably the primary mechanism
+for new adaptations to be formed
+De novo synthesis of new genes not very likely
+    + Proterozoic  
+    Symbiosis manifestation
+    Mitochondrial and chloroplast
+complexity increase
+    + Phanerozoic  
+    Cabrian explosion: multicellular life and animal emergence 0.54Ma
+    Continental drift and glaciation
+    Filling of oxygen into earth's atmosphere
+    Mammal species emergence
+    And global warming: CO2 rise
