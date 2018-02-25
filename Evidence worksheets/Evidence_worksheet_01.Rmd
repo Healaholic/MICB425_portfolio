@@ -4,7 +4,6 @@ author: "Ian Lee"
 student number: "44968139"
 date: "6th Feb 2018"
 output:
-  word_document: default
   html_document: default
 ---
 
