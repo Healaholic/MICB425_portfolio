@@ -1,34 +1,120 @@
 ---
+title: "MICB425 Portfolio - Microbial Ecological Genomics: From Genomes to Biomes, Spring 2018"
+author: "Ian, Ian, Lee, 44968139"
+date: "version `r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+---
+# Module 01
+Reserve the first level headings (#) for the start of a new Module. This will help to organize your portfolio in an intuitive fashion.  
+**Note: Please edit this template to your heart's content. This is meant to be the armature upon which you build your individual portfolio. You do not need to keep this instructive text in your final portfolio, although you do need to keep module and assignment names so we can identify what is what.**
+
+
+## Module 01 portfolio check
+The first of your second level headers (##) is to be used for the portfolio content checks. The Module 01 portfolio check has been built for you directly into this template, but will also be available as a stand-alone markdown document available on the MICB425 GitHub so that you know what is required in each module section in your portfolio. The completion status and comments will be filled in by the instructors during portfolio checks when your current portfolios are pulled from GitHub.
+
+* Installation check
+    + Completion status:
+    + Comments:
+* Portfolio repo setup
+    + Completion status: 
+    + Comments:
+* RMarkdown Pretty html Challenge
+    + Completion status:
+    + Comments:
+* Evidence worksheet_01
+    + Completion status:
+    + Comments:
+* Evidence worksheet_02
+    + Completion status:
+    + Comments:
+* Evidence worksheet_03
+    + Completion status:
+    + Comments:
+* Problem Set_01
+    + Completion status:
+    + Comments:
+* Problem Set_02
+    + Completion status:
+    + Comments:
+* Writing assessment_01
+    + Completion status:
+    + Comments:
+* Additional Readings
+    + Completion status:
+    + Comments  
+    
+## Data science Friday  
+The remaining second level headers (##) are for separating data science Friday, regular course, and project content. In this module, you will only need to include data science Friday and regular course content; projects will come later in the course.
+
+### Installation check
+Third level headers (###) should be used for links to assignments, evidence worksheets, problem sets, and readings, as seen here.  
+
+Use this space to include your installation screenshots.
+
+![Git bash screenshot](C:\Users\Ian\Documents\MICB425_portfolio\DS_assignment1_scr1.png)
+
+![R studio screenshot](C:\Users\Ian\Documents\MICB425_portfolio\DS_assignment1_scr2.png)
+
+![Git hub screenshot](C:\Users\Ian\Documents\MICB425_portfolio\DS_assignment1_scr3.png)
+
+### Portfolio repo setup
+Detail the code you used to create, initialize, and push your portfolio repo to GitHub. This will be helpful as you will need to repeat many of these steps to update your porfolio throughout the course.
+
+Once in Git Bash 
+
+cd ./Documents
+
+cd MICB425_portfolio
+
+git status
+
+git add .
+
+git commit . 
+
+shift title of edit to portfolio
+
+:wq
+
+git push
+
+
+### RMarkdown pretty html challenge
+Paste your code from the in-class activity of recreating the example html.
+
+---
 title: "Pretty_html"
 author: "Ian Lee (44968139)"
 date: " version January 21, 2018"
 output: html_document
 ---
-* [R Markdown PDF Challenge](44968139_MICB425_portfolio.html#r-markdown-pdf-challenge)
-     + [Challenge Goals](44968139_MICB425_portfolio.html#challenge-goals)
-        + [Here's a Header!](44968139_MICB425_portfolio.html#heres-a-header)
-        + [Table Time](44968139_MICB425_portfolio.html#table-time)
+* [R Markdown PDF Challenge](44968139_MICB425_DSAssignment_3.html#r-markdown-pdf-challenge)
+     + [Challenge Goals](44968139_MICB425_DSAssignment_3.html#challenge-goals)
+        + [Here's a Header!](44968139_MICB425_DSAssignment_3.html#heres-a-header)
+        + [Table Time](44968139_MICB425_DSAssignment_3.html#table-time)
 
 #R Markdown PDF Challenge
 
-The following assignment is an exercise for the reproduction of this .html document using the RStudio and RMarkdown tools we’ve shown you in class. Hopefully by the end of this, you won’t feel at all the way this poor PhD student does. We’re here to help, and when it comes to R, the internet is a really valuable resource. This open-source program has all kinds of tutorials online.
+The following assignment is an exercise for the reproduction of this .html document using the RStudio and RMarkdown tools we've shown you in class. Hopefully by the end of this, you won't feel at all the way this poor PhD student does. We're here to help, and when it comes to R, the internet is a really valuable resource. This open-source program has all kinds of tutorials online.
 
 ![http://phdcomics.com/ Comic posted 1-17-2018](http://phdcomics.com/comics/archive/phd011718s.gif)
 
 ##Challenge Goals
 
-The goal of this R Markdown html challenge is to give you an opportunity to play with a bunch of different RMarkdown formatting. Consider it a chance to flex your RMarkdown muscles. Your goal is to write your own RMarkdown that rebuilds this html document as close to the original as possible. So, yes, this means you get to copy my irreverant tone exactly in your own Markdowns. It’s a little window into my psyche. Enjoy =)
+The goal of this R Markdown html challenge is to give you an opportunity to play with a bunch of different RMarkdown formatting. Consider it a chance to flex your RMarkdown muscles. Your goal is to write your own RMarkdown that rebuilds this html document as close to the original as possible. So, yes, this means you get to copy my irreverant tone exactly in your own Markdowns. It's a little window into my psyche. Enjoy =)
 
 **hint: go to the [PhD Comics website](http://phdcomics.com/) to see if you can find the image above**  
-*If you can’t find that exact image, just find a comparable image from the PhD Comics website and include it in your markdown*
+*If you can't find that exact image, just find a comparable image from the PhD Comics website and include it in your markdown*
 
 ###Here's a Header!
 
-Let’s be honest, this header is a little arbitrary. But show me that you can reproduce headers with different levels please. This is a level 3 header, for your reference (you can most easily tell this from the table of contents).
+Let's be honest, this header is a little arbitrary. But show me that you can reproduce headers with different levels please. This is a level 3 header, for your reference (you can most easily tell this from the table of contents).
 
 ####Another header, now with maths
 
-Perhaps you’re already really confused by the whole markdown thing. Maybe you’re so confused that you’ve forgotton how to add. Never fear! ~~A calculator~~ R is here:
+Perhaps you're already really confused by the whole markdown thing. Maybe you're so confused that you've forgotton how to add. Never fear! ~~A calculator~~ R is here:
 
 ```{r}
 1231521+12341556280987
@@ -37,18 +123,321 @@ Perhaps you’re already really confused by the whole markdown thing. Maybe you�
 
 
 ###Table Time
-Or maybe, after you’ve added those numbers, you feel like it’s about time for a table!
-I’m going to leave all the guts of the coding here so you can see how libraries (R packages) are loaded into R (more on that later). It’s not terribly pretty, but it hints at how R works and how you will use it in the future. The summary function used below is a nice data exploration function that you may use in the ^future^. 
+Or maybe, after you've added those numbers, you feel like it's about time for a table!
+I'm going to leave all the guts of the coding here so you can see how libraries (R packages) are loaded into R (more on that later). It's not terribly pretty, but it hints at how R works and how you will use it in the future. The summary function used below is a nice data exploration function that you may use in the ^future^. 
 
 ```{r}
 library(knitr)
 kable(summary(cars),caption="I made this table with kable in the knitr package library")
 ```
 
-And now you’ve almost finished your first RMarkdown! Feeling excited? We are! In fact, we’re so excited that maybe we need a big finale eh? Here’s ours! Include a fun gif of your choice!
+And now you've almost finished your first RMarkdown! Feeling excited? We are! In fact, we're so excited that maybe we need a big finale eh? Here's ours! Include a fun gif of your choice!
 
 ![](https://i.imgur.com/rEM1uvV.gif)
 
 
+## Origins and Earth Systems
+### Evidence worksheet 01 
+The template for the first Evidence Worksheet has been included here. The first thing for any assignment should link(s) to any relevant literature (which should be included as full citations in a module references section below).
 
+You can copy-paste in the answers you recorded when working through the evidence worksheet into this portfolio template. 
+
+As you include Evidence worksheets and Problem sets in the future, ensure that you delineate Questions/Learning Objectives/etc. by using headers that are 4th level and greater. This will still create header markings when you render (knit) the document, but will exclude these levels from the Table of Contents. That's a good thing. You don't' want to clutter the Table of Contents too much.
+
+[Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
+#### Learning objectives
+Describe the numerical abundance of microbial life in relation to ecology and biogeochemistry of Earth systems. 
+
+#### General questions
+* What were the main questions being asked?  
+
+Given the abundance of prokaryotes on earth, how do we calculate the total carbon mass, nitrogen mass, phosphorus mass, number of organisms, and where are they mostly found?
+
+* What were the primary methodological approaches used?  
+
+The earth was divided into a series of environments by which a series of calculations were applied to estimate the total number of organisms based on average abundances within a fixed volume of area. Each environment was studied and referenced for each estimate generated. In addition, assumptions were applied to standardize the distribution of prokaryotes over a given environmental niche.
+
+* Summarize the main results or findings.  
+
+Prokaryotes number from 4-6 X10^30 cells, amounting to 350-550 Pg of carbon, amounting to about half of earth's total biomass. Prokaryotes contain more nutrients than plants, consisting the largest nutrient source on earth. Prokaryotes are found mainly in the ocean, soil, and in subsurface masses in the earth's crust.
+
+* Do new questions arise from the results?  
+
+Should our calculations of earth's total biomass be revised to account non-uniformity in terrain? Could different continental areas contain significantly different densities of microbes? Are there yet still environments where prokaryotes exist that we have yet to discover?
+
+* Were there any specific challenges or advantages in understanding the paper (*e.g.* did the authors provide sufficient background information to understand experimental logic, were methods explained adequately, were any specific assumptions made, were conclusions justified based on the evidence, were the figures or tables useful and easy to understand)?  
+
+The results of the paper rely on many other studies who's calculations or estimates may not be very accurate. This as we understand is the "best estimate" scenario given the current literature and technology at that time. Many assumptions were used to arrive at the final figure of the calculations, and not all the assumptions were justified. Although, the figures presented were argued to be within a certain order of magnitude of accuracy, which is telling of the precision of the calculations that were performed. The authors answered the research questions by first accounting for the largest environmental contributors to prokaryotic count, and then moved into more specific environments that did not contribute heavily to changes in the overall cell and mass counts, despite being rather large in magnitude. Figures and tables summarized the counts gathered from each environment, on which the overall calculations were based. They were in general easy to understand but left out key variations that I believe are crucial in the final result.
+
+
+### Problem set 01
+[Whitman *et al* 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
+#### Learning objectives: 
+Describe the numerical abundance of microbial life in relation to the ecology and biogeochemistry of Earth systems.
+
+#### Specific questions:
+* What are the primary prokaryotic habitats on Earth and how do they vary with respect to their capacity to support life? Provide a breakdown of total cell abundance for each primary habitat from the tables provided in the text.  
+
+The primary prokaryotic habitats on earth are the oceans (referring specifically to bodies of water),
+mountains and the subterranian layers of land, forests (majority on leaves), underwater sediment layers.
+
+* What is the estimated prokaryotic cell abundance in the upper 200 m of the ocean and what fraction of this biomass is represented by marine cyanobacterium including Prochlorococcus? What is the significance of this ratio with respect to carbon cycling in the ocean and the atmospheric composition of the Earth?  
+
+The number of prokaryotic cells in the upper 200m of ocean are 10^18 cells, with prochlorococcus making up the
+majority of prokaryotic life in this layer. There is not as dense a mass of cells below the first 200m but the volume of this
+layer is larger than that of the top 200m of ocean
+Upper 200m of the ocean: 360x10^26
+Fraction represented by cyanobacterium including Prochlorococcus: 8%
+Marine cyanobacterium such as Prochlorococcus produce their own energy from sunlight via photosynthesis,
+which in the process produces oxygen while fixing carbon. Despite only being 8% of the prokaryotic cell abundance
+in the upper 200m, they are responsible for approximately 50% of the oxygen in the atmosphere and contribute
+greatly to carbon cycling as demonstrated by their quick turnover time and resulting 8.2 x 10^29 cells/year.
+
+3.6 X 10^28 cells
+5 X 10^5 cells/mL
+Cyanobacteria
+4 X 10^4 cells/mL/
+5 X 10^5 cells x 100 = 8%
+
+
+* What is the difference between an autotroph, heterotroph, and a lithotroph based on information provided in the text?  
+
+
+Autotrophs in this text are bacteria that produce their own food, primarily using energy from the sun. As a result,
+these are prokaryotes that are often found on surface environments that are able to recieve some amount of
+sunlight. They are <10% of upper layer marine prokaryotes. However, they form the majority of prokaryotes in soil
+and subsurface. Thus, they are defined as primarily land-dwelling organisms.
+Heterotrophs make up the majority of prokaryotic organisms with the majority
+of those found below 200m. They are defined as the most abundant sea-dwelling organisms.
+Lithotrophs are subsurface prokaryotes that use a different method of energy generation. They are defined as
+mysterious, primarily found in subsurface environments, and are scarcer than other types of prokaryotes.
+
+
+Autotroph- "self nourishing", fix inorganic carbon into biomass
+Heterotroph - Assimilate organic carbon
+Lithotroph - use inorganic substrates
+
+
+* Based on information provided in the text and your knowledge of geography what is the deepest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this depth?  
+
+The Mariana Trench is the deepest part of the ocean, and we know that it is an environment that supports
+prokaryotic life, although at this depth, there is nearly no light reaching it as well. Therefore, it is the deepest habitat
+known to support life. Because the paper has deduced that subsurface sediments below the water layer also contains
+prokaryotes, we could make the argument that the deepest habitat to host prokaryotic life would be the subsurface
+sediment layer of the Trench.
+Subsurface environments on land may contain prokaryotes further below that of the Mariana Trench.
+However, not much is currently known about life
+existing below these depths, due to challenges in retrieving uncontaminated samples from these areas.
+The text talks about how in subsurface environements, the limited carbon nutrition available to these organisms
+means that the majority are metabolically inactive or non-viable. However, evidence shows that metabolic activity
+is on par with that of surface prokaryotes. Because most of the carbon nutrient availability is gained from
+the surface, the primary limiting factor would be the transfer of carbon nutrients from surface to deeper subsurface
+environments, which logically decreases the deeper you go.
+
+
+* Based on information provided in the text your knowledge of geography what is the highest habitat capable of supporting prokaryotic life? What is the primary limiting factor at this height?  
+
+Prokaryotes have been found in in the atmosphere at altitudes as high as 57-77 km. Mount Everest (8,848 meters) is the highest geographical location on Earth,
+and therefore would technically be the highest habitat capable of supporting prokaryotic life. Is it capable of supporting prokaryotic life?
+Primary limiting factors at this height include temperature. Some prokaryotes, psychrophiles, have adapted to such low temperatures.
+Nutrients are also limited at high altitude. Less atoms are found in the upper atmosphere and thus less material is available to compose the building blocks of life.
+This would result in slower growth. UV radiation as well as pressure are limiting to life at high altitudes because they can damage cells.
+
+
+* Based on estimates of prokaryotic habitat limitation, what is the vertical distance of the Earth’s biosphere measured in km?  
+
+
+Taking the lowest point and highest point, there is 24km. The "skin" of the world. The biosphere of the earth is a relatively narrow band.
+Lower range:
+Mariana Trench is 10,994 meter deep, but the lower limit is much deeper since it includes subsurface sediments, which is about 4.5km deeper.
+Upper limit:
+Mount Everest 8,848 m high, but the upper limit is much higher if it includes atmosphere as an "habitat".
+Vertical distance of the Earth's biosphere: 19.84 km + 4.5km = 24km (+ potential atmosphere)
+
+* How was annual cellular production of prokaryotes described in Table 7 column four determined? (Provide an example of the calculation)  
+
+Annual cellular production, in cells/year X 10^29 was calculated with the following formula:
+Cells/year = Population Size * (365 / (turnover time [days]))
+Or ( same thing below)
+Cells/year = Population Size * (turnover/year)
+
+Marine heterotrophs
+[3.6 x 10^28 cells x 365 days]/16 turnovers = 8.2 x 10^29 cells
+
+* What is the relationship between carbon content, carbon assimilation efficiency and turnover rates in the upper 200m of the ocean? Why does this vary with depth in the ocean and between terrestrial and marine habitats?  
+
+Carbon content along with carbon assimilation efficiency determine the upperbound limit on the turnover rates seen in the upper 200m of the ocean.
+This varies with depth in the ocean, and between terrestrial and marine habitats because the abundance of carbon in each habitat is different.
+Carbon efficiency = 20% (this is an assumption that the authors make) - somehow get a multiplier of 4 from this to use to multiply total carbon later; not sure why
+Total carbon = average carbon per cell * number of cells
+4 * total carbon = 2.88 Py/year
+Carbon efficiency: 20%
+20 fg of C on avg in prokaryotic cell (20 fg/cell)
+~20 = 20?*10^-30 Pg/cell
+(3.6 X 10^28 cells) x (10^-30 Pg/cell) = 0.72 Pg C in marine heterotrophs
+51 Pg cell/year 85% consumed = 43 Pg C
+(43 Pg cell/year)/2.88 Pg/year = 14.9 turnovers/year, 1 turnover every 24.1 days
+[365 days /14.9 turnovers = ~24 days / turnover]
+
+* How were the frequency numbers for four simultaneous mutations in shared genes determined for marine heterotrophs and marine autotrophs given an average mutation rate of 4 x 10^-7^ per DNA replication? (Provide an example of the calculation with units. Hint: cell and generation cancel out)  
+
+((365d/y)*(24h/d)/(((4*10^-7)^4 mutations/cell))*(8.2*10^29 cells/y)=(h/4 simultaneous mutations)
+= 4x10^-7 mutations/generation
+For 4 mutations to happen at once:
+(4x10^-7)^4 = 2.56x10^-26 mutations/generation
+(3.1x 10^28 cells) x 22.8 = 8.2 X 10^29 cells/yr
+365 / 16 = 22.8 turnover/yr
+(8.2 x 10^ 29 cells/ yr) x 2.56 x 10^26 mutations/yr = 2.1 X 10^4 mutations/ yr
+
+
+* Given the large population size and high mutation rate of prokaryotic cells, what are the implications with respect to genetic diversity and adaptive potential? Are point mutations the only way in which microbial genomes diversify and adapt?  
+
+A large mutation rate means that there is a great potential for multiple point mutations in a single replication.
+This allows for quick adaptation by creating a more diverse pool of mutants to be selected from.
+Genetic diversity will be extremely high when small scale changes to sequence are considered and long term "species" level
+biodiversity will mostly be determined by competition and environmental pressures. Horizontal gene transfer can allow new genes to proliferate
+in a microbial community assuming the gene is successful in the organism is "born" in.
+
+* What relationships can be inferred between prokaryotic abundance, diversity, and metabolic potential based on the information provided in the text? 
+
+High abundance allows for high diversity by increasing the potential for mutations and simultaneous mutations.
+Metabolic potential is dependent on both abundance and diversity. Diversity determines the pool of available genes to
+be used in metabolic pathways and abundance determines the magnitude of the effect of these pathways.
+
+###Evidence worksheet 02
+
+[Kasting and Siefert, 2003](https://www.ncbi.nlm.nih.gov/pubmed/12004117)
+[Nisbet and Sleep, 2001](https://www.nature.com/articles/35059210)
+
+#### Learning objectives: 
+Comment on the emergence of microbial life and the evolution of Earth systems
+    
+    
+* Indicate the key events in the evolution of Earth systems at each approximate moment in the time series. If times need to be adjusted or added to the timeline to fully account for the development of Earth systems, please do so. 
+
+    + 4.6 billion years ago  
+    Moon formation gives earth its spin
+and tilt. High global temperature
+Zircon formation (oldest known) 4.4 Ga
+    + 4.2 billion years ago  
+    late heavy bombardment
+    Slight evidence of life in zircon
+4.1 Ga through graphite.
+    + 3.8 billion years ago  
+    Plate subduction
+    + 3.75 billion years ago  
+    Water present only
+as vapour.
+    + 3.5 billion years ago  
+    Methagen proliferation giving a
+very warm earth
+much dimmer sun back then.
+Methanogenesis
+Photosynthesis began during
+this period.Rubisco evidence here.
+Proper evidence of life at 3.5 Ga
+    + 3.0 billion years ago  
+    First glaciation
+oxygen in the atmosphere decreases
+greenhouse effect.Life is mostly underwater at this point
+    + 2.7 billion years ago  
+    Gene transfer was probably the primary mechanism
+for new adaptations to be formed
+De novo synthesis of new genes not very likely.
+    + 2.2 billion years ago  
+    Life on land. First indication of eukaryotic life during this
+period. Second glaciation and
+carbon explosion.
+    + 2.1 billion years ago
+    Symbiosis manifestation
+    Mitochondrial and chloroplast
+complexity increase. Rocks recognized as red beds, O2 levels
+increase due to eukaryotes evolving to
+produce O2.
+    + 1.3 billion years ago
+    Snowball earth 1 billion years ago
+    + 550,000 years ago
+    Emergence and development of
+complex plants 0.4Ma, fish, insects and
+tetrapods on land
+Greatest ecological diversity during this period
+Rapid expansion and evolution
+Permean extinction (95% of all life)
+    + 200,000 years ago
+Humans arise
+
+* Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
+
+    + Hadean  
+    Formation of the solar system
+    + Archean  
+    Meteorite
+bombardment and cessation
+leads to sea water formation
+sedimentary rock formation
+    + Precambrian  
+    Gene transfer was probably the primary mechanism
+for new adaptations to be formed
+De novo synthesis of new genes not very likely
+    + Proterozoic  
+    Symbiosis manifestation
+    Mitochondrial and chloroplast
+complexity increase
+    + Phanerozoic  
+    Cabrian explosion: multicellular life and animal emergence 0.54Ma
+    Continental drift and glaciation
+    Filling of oxygen into earth's atmosphere
+    Mammal species emergence
+    And global warming: CO2 rise
+
+###Problem set 02
+
+[Falkowski, *et al.*, 2008](https://www.ncbi.nlm.nih.gov/pubmed/18497287)
+[Zehnder, 1988](http://library.wur.nl/WebQuery/wurpubs/7502)
+
+#### Learning objectives: 
+Discuss the role of microbial diversity and formation of coupled metabolism in driving global biogeochemical cycles.
+
+#### Specific Questions:
+* What are the primary geophysical and biogeochemical processes that create and sustain conditions for life on Earth? How do abiotic versus biotic processes vary with respect to matter and energy transformation and how are they interconnected?  
+
+The earth's tectonic and atmospheric photochemical processes form the geochemical cycle that allows life to exist. These processes allow for molecular interaction and for chemical bond formation and breaking to allow for equilibrium to never be reached and thus substrates would continually be renewed for life to use. Life influences the earth's climate and composition by redox reactions. Microbes catalyze these redox reactions and fundementally alter the earth's redox state. In turn, the earth cycles back these redox reactions to create the feedback cycle in which both activities are linked.
+
+* Why is Earth’s redox state considered an emergent property?
+  
+
+Fluxes of five elements: H, C, N, O, S are controlled primarily by redox reactions that are carried out by life. These reactions initiated by microbes fundementally alter the redox state of the surface of the planet. The earth's current redox state is an emergent property because it exists at a point of balance between the redox state created by the tectonic activity of the earth, and the redox state that would be due to microbial activity. Therefore, the earth's redox state exists only because of the existence of life on earth.
+
+* How do reversible electron transfer reactions give rise to element and nutrient cycles at different ecological scales? What strategies do microbes use to overcome thermodynamic barriers to reversible electron flow?  
+
+Elemental cycles are often controlled by a series of redox reactions in tension with each other. Identical or near-identical cycles are used for both forward and reverse directions of reactions that maintain the cycles. Microbes utilize synergistic cooperation with other species in order to propogate these cycles, with one microbe using one direction of a cycle for energy production, while the other microbial species uses the opposite direction for bioassimilation, which in the process expends energy. These activities are able to thus able to overcome barriers to reversible electron flow by sacrificing efficiency of energy transfer for continuation of the cycle. Another contributive source of energy used to overcome many of the energetic barriers to electron flow is the use of light energy for photooxidative processes.
+
+* Using information provided in the text, describe how the nitrogen cycle partitions between different redox “niches” and microbial groups. Is there a relationship between the nitrogen cycle and climate change?   
+
+Nitrogen fixation allows for the conversion of N2 gas into NH4+, which is a reductive process. The highly evolutionarily conserved nitrogenase enzyme allows for this step to occur, and is inhibited by oxygen. This step occurs in anoxic environments. Oxidation of NH4+ to NO2- occurs only in the presence of oxygen, and thus an oxygenated environment. Different bacteria then further oxidize nitrogen to NO3- in an . NO2 and NO3 is also used as a source of oxidation in the abscence of oxygen, returning it to N2. This process thus occurs in an anoxic environment. The emergence of the nitrogen cycle as giving rise to the most prominent gas currently existing in the atmosphere would have lowered CH4 levels, causing a decrease in global temperatures, along with the rise of oxygen levels.
+
+* What is the relationship between microbial diversity and metabolic diversity and how does this relate to the discovery of new protein families from microbial community genomes?  
+
+Metabolic diversity to an extent drives microbial diversity. This is because oxidative and reductive metabolic processes often exist in different organisms. As such, one organism exists as utilizing either the reductive or oxidative portion of an elecmental cycle while another uses the other half. It is known that metabolic proteins or even whole metabolic pathways can be transferred horizontally from one microbe to another. The extent of this is controlled by nutrient and bioenergenic selective pressures (whether or not such evolution would result in an greater ability to utilize or obatain energy). The discovery of new protein families in microbial community genomes indicates that we have only begun to scratch the surface regarding the evolutionary diversity in nature arising as a result of these selective pressures. This discovery process is roughly linear with the number of new genomes sequenced. As it currently stands, there is a potentially unlimited quantity of genetic diversity in microbes. However, their distribution would be limited by the environments they are found in, with the caveat that a large portion of the relevant cellular machinery for all different kinds of metabolism are harbored in microbes not necessarily actively using them for energy production.
+
+* On what basis do the authors consider microbes the guardians of metabolism?
+
+Microbes are the guardians of metabolism on the basis that they are responsible for maintaining the core planetary gene set, which are all the genes encoding the metabolic machinery to take advantage of every single metabolic environmental niche on the planet. They do this because viable bacteria of any particular functional type can re-grow from almost any environmental niche, even if that environment cannot initially support its growth. This is attributed to the relative slow decay of microbial biomass relative to its propagation through dormancy or through sporulation.
+
+### Module 01 references
+Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
+
+An example for Whitman and Wiebe (1998) has been included below.
+
+Falkowski, P., Fenchel, T. and Delong, E. (2008). The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science, 320(5879), pp.1034-1039.
+
+Kasting, J. and Siefert J. (2002). Life and the Evolution of Earth's Atmosphere. Science, 296(5570), pp.1066-1068.
+
+Nisbet, E. and Sleep, N. (2001). The habitat and nature of early life. Nature, 409(6823), pp.1083-1091.
+
+Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578–6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
+
+Zehnder, A.J.B. and Stumm, W. (1988). Geochemistry and biogeochemistry of anaerobic habitats. Biology of anaerobic microorganisms. Wageningen University.pp.1-38.
 
