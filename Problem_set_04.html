@@ -148,12 +148,12 @@ $(document).ready(function () {
 </ol>
 <pre class="r"><code>library(kableExtra)
 library(tidyverse)</code></pre>
-<pre><code>## -- Attaching packages ------------------------------------------------------------------------------------------------------------- tidyverse 1.2.1 --</code></pre>
+<pre><code>## -- Attaching packages ---------------------------------------------------------------------------------------------------------------------------------- tidyverse 1.2.1 --</code></pre>
 <pre><code>## v ggplot2 2.2.1     v purrr   0.2.4
 ## v tibble  1.4.2     v dplyr   0.7.4
 ## v tidyr   0.7.2     v stringr 1.2.0
 ## v readr   1.1.1     v forcats 0.2.0</code></pre>
-<pre><code>## -- Conflicts ---------------------------------------------------------------------------------------------------------------- tidyverse_conflicts() --
+<pre><code>## -- Conflicts ------------------------------------------------------------------------------------------------------------------------------------- tidyverse_conflicts() --
 ## x dplyr::filter() masks stats::filter()
 ## x dplyr::lag()    masks stats::lag()</code></pre>
 <pre class="r"><code>library(knitr)
@@ -694,8 +694,14 @@ example_data1_diversity</code></pre>
 <p>If you are stuck on some of these final questions, reading the <a href="https://www.ncbi.nlm.nih.gov/pubmed/19725865">Kunin et al. 2010</a> and <a href="https://www.ncbi.nlm.nih.gov/pubmed/23760801">Lundin et al. 2012</a> papers may provide helpful insights.</p>
 <ul>
 <li>How does the measure of diversity depend on the definition of species in your samples?</li>
+</ul>
+<p>When we increase the strictness for what defines a species, our collector’s curve must now reflect a greater number of species and thus will flatten out later. Our diversity thus increases the more strict our definition of species becomes.</p>
+<ul>
 <li>Can you think of alternative ways to cluster or bin your data that might change the observed number of species?</li>
-<li>How might different sequencing technologies influence observed diversity in a sample?</li>
+</ul>
+<p>Sorting also by colour would increase diversity because of increased strictness.</p>
+<ul>
+<li>How might different sequencing technologies influence observed diversity in a sample? Our definition of a species on a genetic level greatly affects the observed diversity in a sample.</li>
 </ul>
 </div>
 </div>

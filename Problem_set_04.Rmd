@@ -6,7 +6,7 @@ output: html_document
 editor_options: 
   chunk_output_type: console
 ---
-### Problem set_04 “Fine-scale phylogenetic architecture”
+### Problem set_04 "Fine-scale phylogenetic architecture"
 #### Learning objectives: 
 
 * Gain experience estimating diversity within a hypothetical microbial community
@@ -293,5 +293,12 @@ For your sample:
 If you are stuck on some of these final questions, reading the [Kunin et al. 2010](https://www.ncbi.nlm.nih.gov/pubmed/19725865) and [Lundin et al. 2012](https://www.ncbi.nlm.nih.gov/pubmed/23760801) papers may provide helpful insights. 
 
 * How does the measure of diversity depend on the definition of species in your samples?
+
+When we increase the strictness for what defines a species, our collector's curve must now reflect a greater number of species and thus will flatten out later. Our diversity thus increases the more strict our definition of species becomes. 
+
 * Can you think of alternative ways to cluster or bin your data that might change the observed number of species?
+
+Sorting also by colour would increase diversity because of increased strictness. 
+
 * How might different sequencing technologies influence observed diversity in a sample?
+Our definition of a species on a genetic level greatly affects the observed diversity in a sample. 
