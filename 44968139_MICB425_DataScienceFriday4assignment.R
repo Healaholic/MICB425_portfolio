@@ -330,3 +330,31 @@ specpool(bin3_diversity)
 #All       8    8       0     8        0     8    8       0 1
 
 # The values match the previous calculations
+
+
+
+#Project 1
+
+library("tidyverse")
+library("phyloseq")
+load("~/MICB425_portfolio/mothur_phyloseq.Rdata")
+load("~/MICB425_portfolio/qiime2_phyloseq.RData")
+
+plot_bar(mothur, fill="Phylum")
+geom_bar(aes(fill=Phylum), stat="identity")
+
+qiime2_percent = transform_sample_counts(qiime2, function(x) 100 * x/sum(x))
+
+plot_bar(qiime2_percent, fill="Phylum")+
+  geom_bar(aes(fill=Phylum), stat="identity")
+
+set.seed(4832)
+m.norm = rarefy_even_depth(mothur, sample.size=100000)
+m.perc = transform_sample_counts(m.norm, function(x) 100 * x/sum(x))
+
+m.norm %>% 
+  subset_taxa(Phylum=="Planctomycetes") %>%
+estimate_richness(measures = c("Observed"))
+
+
+m.otu <- data.frame(mothur@otu_table)
