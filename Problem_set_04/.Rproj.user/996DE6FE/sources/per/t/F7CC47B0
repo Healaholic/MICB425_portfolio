@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520873321066.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F7CC47B0",
+    "lastKnownWriteTime" : 5292976843906638626,
+    "last_content_update" : 1520873321066,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FB2E18C5",
+        "caption" : "m.otu",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=m.otu&cache_key=FB2E18C5",
+        "displayedObservations" : 7,
+        "environment" : "",
+        "object" : "m.otu",
+        "preview" : 0,
+        "totalObservations" : 7,
+        "variables" : 4368
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

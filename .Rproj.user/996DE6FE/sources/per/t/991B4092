@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517591485805.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "991B4092",
+    "lastKnownWriteTime" : 21673775077720180,
+    "last_content_update" : 1517591485805,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "369D88EB",
+        "caption" : "oxygen",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=oxygen&cache_key=369D88EB",
+        "displayedObservations" : 16,
+        "environment" : "",
+        "object" : "oxygen",
+        "preview" : 0,
+        "totalObservations" : 16,
+        "variables" : 1
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
