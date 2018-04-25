@@ -1,7 +1,7 @@
 ---
 title: 'MICB425 Portfolio - Microbial Ecological Genomics: From Genomes to Biomes,
   Spring 2018'
-author: "Ian, Ian, Lee, 44968139"
+author: "Ian, Lee, 44968139"
 date: "version `r format(Sys.time(), '%B %d, %Y')`"
 output:
   html_document:
@@ -318,83 +318,114 @@ be used in metabolic pathways and abundance determines the magnitude of the effe
 ###Evidence worksheet 02
 
 [Kasting and Siefert, 2003](https://www.ncbi.nlm.nih.gov/pubmed/12004117)
+
 [Nisbet and Sleep, 2001](https://www.nature.com/articles/35059210)
 
 #### Learning objectives: 
+
 Comment on the emergence of microbial life and the evolution of Earth systems
     
     
-* Indicate the key events in the evolution of Earth systems at each approximate moment in the time series. If times need to be adjusted or added to the timeline to fully account for the development of Earth systems, please do so. 
+Indicate the key events in the evolution of Earth systems at each approximate moment in the time series. If times need to be adjusted or added to the timeline to fully account for the development of Earth systems, please do so. 
 
-    + 4.6 billion years ago  
-    Moon formation gives earth its spin
++ 4.6 billion years ago  
+    
+Moon formation gives earth its spin
 and tilt. High global temperature
 Zircon formation (oldest known) 4.4 Ga
-    + 4.2 billion years ago  
-    late heavy bombardment
-    Slight evidence of life in zircon
+
++ 4.2 billion years ago  
+    
+late heavy bombardment
+Slight evidence of life in zircon
 4.1 Ga through graphite.
-    + 3.8 billion years ago  
-    Plate subduction
-    + 3.75 billion years ago  
-    Water present only
+    
++ 3.8 billion years ago  
+    
+Plate subduction
+    
++ 3.75 billion years ago  
+    
+Water present only
 as vapour.
-    + 3.5 billion years ago  
-    Methagen proliferation giving a
-very warm earth
-much dimmer sun back then.
+    
++ 3.5 billion years ago  
+    
+Methagen proliferation giving a very warm earth much dimmer sun back then.
+    
 Methanogenesis
-Photosynthesis began during
-this period.Rubisco evidence here.
+
+Photosynthesis began during this period. Rubisco evidence here.
 Proper evidence of life at 3.5 Ga
-    + 3.0 billion years ago  
-    First glaciation
+    
++ 3.0 billion years ago  
+First glaciation
 oxygen in the atmosphere decreases
 greenhouse effect.Life is mostly underwater at this point
-    + 2.7 billion years ago  
-    Gene transfer was probably the primary mechanism
+    
++ 2.7 billion years ago  
+    
+Gene transfer was probably the primary mechanism
 for new adaptations to be formed
 De novo synthesis of new genes not very likely.
-    + 2.2 billion years ago  
-    Life on land. First indication of eukaryotic life during this
+   
++ 2.2 billion years ago  
+  
+Life on land. First indication of eukaryotic life during this
 period. Second glaciation and
 carbon explosion.
-    + 2.1 billion years ago
-    Symbiosis manifestation
-    Mitochondrial and chloroplast
+  
++ 2.1 billion years ago
+    
+Symbiosis manifestation
+Mitochondrial and chloroplast
 complexity increase. Rocks recognized as red beds, O2 levels
 increase due to eukaryotes evolving to
 produce O2.
-    + 1.3 billion years ago
-    Snowball earth 1 billion years ago
-    + 550,000 years ago
-    Emergence and development of
-complex plants 0.4Ma, fish, insects and
+   
++ 1.3 billion years ago
+  
+Snowball earth 1 billion years ago
+  
++ 550,000 years ago
+
+Emergence and development of complex plants 0.4Ma, fish, insects and
 tetrapods on land
 Greatest ecological diversity during this period
 Rapid expansion and evolution
 Permean extinction (95% of all life)
-    + 200,000 years ago
+  
+ + 200,000 years ago
+
 Humans arise
 
 * Describe the dominant physical and chemical characteristics of Earth systems at the following waypoints:  
 
     + Hadean  
+   
     Formation of the solar system
+  
     + Archean  
+    
     Meteorite
 bombardment and cessation
 leads to sea water formation
 sedimentary rock formation
+    
     + Precambrian  
+  
     Gene transfer was probably the primary mechanism
 for new adaptations to be formed
 De novo synthesis of new genes not very likely
+   
     + Proterozoic  
+   
     Symbiosis manifestation
     Mitochondrial and chloroplast
 complexity increase
+  
     + Phanerozoic  
+   
     Cabrian explosion: multicellular life and animal emergence 0.54Ma
     Continental drift and glaciation
     Filling of oxygen into earth's atmosphere
@@ -403,7 +434,8 @@ complexity increase
 
 ###Problem set 02
 
-[Falkowski, *et al.*, 2008](https://www.ncbi.nlm.nih.gov/pubmed/18497287)
+[Falkowski, et al., 2008](https://www.ncbi.nlm.nih.gov/pubmed/18497287)
+
 [Zehnder, 1988](http://library.wur.nl/WebQuery/wurpubs/7502)
 
 #### Learning objectives: 
@@ -498,7 +530,29 @@ results are extrapolative of their meaning towards distribution of proteorhodops
 
 ###Writing Assignment 01
 
-Ian Lee, 44968139
+[Achenbach, 2012](https://www.washingtonpost.com/national/health- science/spaceship-earth-a-new-view-of- environmentalism/2011/12/29/gIQAZhH6WP_story.html?utm_term=.c18bd3664b50)
+
+[Canfield, Glazer and Falkowski, 2010](https://www.ncbi.nlm.nih.gov/pubmed/20929768)
+
+[Falkowski, Fenchel and Delong, 2008](http://science.sciencemag.org/content/320/5879/1034)
+
+[Griffin, 2015](https://www.cnn.com/2015/04/14/us/gulf-oil-spill- unknowns/index.html)
+
+[Kasting and Siefert, 2002](http://science.sciencemag.org/content/296/5570/1066)
+
+[Leopold, 1995](http://www.environmentandsociety.org/mml/leopold-aldo-sand-county-almanac-and-sketches-here-and-there)
+
+[McAlpine et al., 2015](https://www.ecologyandsociety.org/vol20/iss1/art56/)
+
+[Nisbet and Sleep, 2001](https://www.nature.com/articles/35059210)
+
+[Raffery et al., 2017](https://www.nature.com/articles/nclimate3352)
+
+[Rockstr÷m, 2009](https://www.ncbi.nlm.nih.gov/pubmed/19779433)
+
+[Whitman, Coleman and Wiebe, 1998](http://www.pnas.org/content/95/12/6578)
+
+[Zehnder and Stumm, 1988](http://library.wur.nl/WebQuery/wurpubs/7502)
 
 
   Homo sapiens. Beings who by use of technology have elevated themselves past the limits of evolutionary constraint, becoming dictators of their own fate, along with the fate of the Earth. Their success has led to a population explosion now numbering about 7 billion individuals. However, in doing so, they have begun to resemble a cancer that is consuming and destroying Earth's regulatory systems. The Earth thus currently sits at a crucial turning point that will determine the fate of its future. Within itself, rests two key players in its transformation: one whose metabolic engines have been driving its change for eons, and one who's recent emergence as an environmental force has been so large that it surpasses much of the natural order before it. Microbes, with steady evolution molding Earth's elemental equilibrium to the point where abundant oxygen for aerobic respiration, and elemental sequestration that constitutes the building blocks of organic matter, have been the custodians of this planet for billions of years, are now being overthrown by the species claiming dominion over all. In this essay, I will present a defense of the notion that microbial life existed easily without human intervention from the dawn of the Archean (Nisbet & Sleep, 2001), whilst promoting the notion that humans rely on microbes for key processes that are essential for sustaining life, and as we continue to exert large change on our environment, that we risk disrupting the delicate balance created by microbes that enables the survival of the human species. This disruption of complex elemental cycling is ultimately insurmountable even by the vast capacity of human innovation, thus dooming us to extinction should we carelessly venture past the boundaries of ecological provision.The reasons for why this is true branch into three main chains of thought that I will elaborate upon through the course of this essay: 1) Microbial engines that have existed without the need for human intervention drive the world at a magnitude and complexity impossible for humans to replicate. 2) Even if we could in the future replicate these processes, the result of such intervention would more likely than not be extremely harmful towards microbes and ourselves. 3) There is a fundamental human weakness at addressing problems of this nature, which lies in the social and psychological impetus for change at a global scale.
@@ -518,7 +572,6 @@ In conclusion, the inability of humankind to mitigate the effects that a loss of
 
 
 ### Module 01 references
-Utilize this space to include a bibliography of any literature you want associated with this module. We recommend keeping this as the final header under each module.
 
 Achenbach, J. (2012). Spaceship Earth: A new view of environmentalism. Washington Post. 	Retrieved 16 February 2018, from https://www.washingtonpost.com/national/health-	science/spaceship-earth-a-new-view-of-	environmentalism/2011/12/29/gIQAZhH6WP_story.html?utm_term=.c18bd3664b50
 
@@ -539,6 +592,7 @@ McAlpine, C., Seabrook, L., Ryan, J., Feeney, B., Ripple, W., Ehrlich, A., & Ehr
 Nisbet, E. and Sleep, N. (2001). The habitat and nature of early life. Nature, 409(6823), pp.1083-1091.
 
 Raftery, A., Zimmer, A., Frierson, D., Startz, R., & Liu, P. (2017). Less than 2???∞C warming by 	2100 unlikely. Nature Climate Change, 7(9), 637-641. 	http://dx.doi.org/10.1038/nclimate3352
+
 Rockstr÷m, J. (2009). A safe operating space for humanity. Nature Reviews, 461(1), 472-475.
 
 Whitman WB, Coleman DC, and Wiebe WJ. 1998. Prokaryotes: The unseen majority. Proc Natl Acad Sci USA. 95(12):6578‚Äì6583.  [PMC33863](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC33863/)
@@ -1144,6 +1198,32 @@ Our definition of a species on a genetic level greatly affects the observed dive
 
 ###Writing assignment 03
 
+[Allali et al., 2017](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-017-1101-8)
+
+[BBC bitesize, 2014](http://www.bbc.co.uk/bitesize/ks3/science/organisms_behaviour_health/variation_classification/revision/7/)
+
+[Calahan, McMurdie and Holmes, 2017](https://www.ncbi.nlm.nih.gov/pubmed/28731476)
+
+[Chen et al., 2013](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070837)
+
+[Edgar, 2017](https://www.ncbi.nlm.nih.gov/pubmed/29506021)
+
+[Falkowski, Fenchel and Delong, 2008](http://science.sciencemag.org/content/320/5879/1034)
+
+[Finotello, Mastrorilli and Camillo, 2016](https://www.ncbi.nlm.nih.gov/pubmed/28025179)
+
+[Hackett et al., 2002](https://www.ncbi.nlm.nih.gov/pubmed/12471157)
+
+[Hawley et al., 2017](https://www.nature.com/articles/sdata2017160)
+
+[Nisbet and Sleep, 2001](https://www.nature.com/articles/35059210)
+
+[Torres-Beltr·n et al., 2017](https://www.nature.com/articles/sdata2017159)
+
+[Welch et al., 2002](https://www.ncbi.nlm.nih.gov/pubmed/12471157)
+
+[Whitman, Coleman and Wiebe, 1998](http://www.pnas.org/content/95/12/6578)
+
 The global microbial biomass constitutes nearly one half of all biomass on Earth (Whitman et al., 1998). They number as the most common living organisms, and are responsible for driving the metabolic engines that enable all other life to exist. In addition, since the discovery of microbial entities as pathogens that cause disease, they have become key subjects towards the study of illness. They are the world's oldest ancestors of life, having existed long before any human or animal has, and hold the key to unlocking the grand question of how we came to be. As such, great importance has been placed on the need to study and classify microbes to better understand the lines that tie our existence and history in with them. Yet, despite the importance of classifying the grand diversity of microbes, there remain significant challenges in doing so. In this essay, in fulfilling the broader aim to generate a synthesis of what we have learned in MICB 425, I will be detailing the challenges involved in defining a microbial species, in the context of our current reliance on 16S rRNA sequencing for classification of Operational Taxonomic Units (OTUs). Following this, I will be discussing the phenomenon of Horizontal Gene Transfer (HGT), specifically how it hinders our ability to trace the origin of species, and along with that, the origin of metabolic pathways. Finally, I will explain why it is necessary to have a clear definition, even in the context of a shifting definition with the advent of amplicon sequence variants (ASVs) about to replace OTUs as the standard unit of a species. 
 
 The advent of genome sequencing technology has enabled humanity the ability to study microbes in ways that have previously been impossible through culture-based identification methods alone. By-passing the cultivation limitation in detecting microbial life has allowed us to estimate that we had only been able to capture about 1% of all microbial diversity up to that point (Chen et al., 2013). 16S rRNA sequencing seeks to compare the sequences of RNA found within the 16S portion of the small ribosomal subunit. This sequence is used because all translationally active microbial life contains such a sequence. This has two primary benefits, the first being that sequences within this region are conserved for taxonomically similar organisms, allowing us to construct a phylogenetic tree that links all microbial life together through tracing the lineage of inheritance towards the common ancestor of all life on Earth. The second benefit is that only studying organisms that contain translationally active machinery allows us to narrow the scope of study to microbes that contribute towards the global metabolic engines that drive Earth's biogeochemical cycles (Falkowski, Fenchel and Delong, 2008). From this, the concept of OTUs representing species came to be. The current standard for sequence similarity between OTUs is 97%. This currently defines what a species is in the status quo. To derive the OTUs present in each location, samples of the environment are gathered, and genetic material needs to be isolated from individual cells. PCR amplification is applied to extracted DNA, and sequences are processed through bioinformatics pipelines for compositional analysis of samples (Finotello, Mastrorilli and Di Camillo, 2016). 
@@ -1160,14 +1240,13 @@ In conclusion, the introduction of sequencing technology has allowed us to study
 
 [Cordero et al., 2012](https://www.ncbi.nlm.nih.gov/pubmed/23169633)
 
-
 [Giovannoni, 2012](http://www.pnas.org/content/109/35/13888)
 
 [Lundin et al., 2012](https://www.ncbi.nlm.nih.gov/pubmed/23760801)
 
 [Morris, Lenski and Zinser, 2012](http://mbio.asm.org/content/3/2/e00036-12.abstract)
 
-[Thompson et al., 2005](https://www.ncbi.nlm.nih.gov/pubmed/15731455)
+[Thompson, 2005](https://www.ncbi.nlm.nih.gov/pubmed/15731455)
 
 
 
@@ -1175,7 +1254,7 @@ In conclusion, the introduction of sequencing technology has allowed us to study
 
 Allali, I., Arnold, J., Roach, J., Cadenas, M., Butz, N., Hassan, H., Koci, M., Ballou, A., Mendoza, M., Ali, R. and Azcarate-Peril, M. (2017). A comparison of sequencing platforms and bioinformatics pipelines for compositional analysis of the gut microbiome. BMC Microbiology, 17(1).
 
-BBC.co.uk. (2018). BBC - KS3 Bitesize Science - Variation and classification : Revision, Page 7. [online] Available at: http://www.bbc.co.uk/bitesize/ks3/science/organisms_behaviour_health/variation_classification/revision/7/ [Accessed 23 Apr. 2018].
+BBC.co.uk. (2014). BBC - KS3 Bitesize Science - Variation and classification : Revision, Page 7. [online] Available at: http://www.bbc.co.uk/bitesize/ks3/science/organisms_behaviour_health/variation_classification/revision/7/ [Accessed 23 Apr. 2018].
 
 Callahan, B., McMurdie, P. and Holmes, S. (2017). Exact sequence variants should replace operational taxonomic units in marker-gene data analysis. The ISME Journal, 11(12), pp.2639-2643.
 
@@ -1189,7 +1268,8 @@ Welch, R., Burland, V., Plunkett, G., Redford, P., Roesch, P., Rasko, D., Buckle
 Falkowski, P., Fenchel, T. and Delong, E. (2008). The Microbial Engines That Drive Earth's Biogeochemical Cycles. Science, 320(5879), pp.1034-1039.
 
 Finotello, F., Mastrorilli, E. and Di Camillo, B. (2016). Measuring the diversity of the human microbiota with targeted next-generation sequencing. Briefings in Bioinformatics, p.bbw119.
-Courses.lumenlearning.com. (2018). Classification of Microorganisms | Boundless Microbiology. [online] Available at: https://courses.lumenlearning.com/boundless-microbiology/chapter/classification-of-microorganisms/ [Accessed 22 Apr. 2018].
+
+Lumen Learning. (2018). Classification of Microorganisms | Boundless Microbiology. [online] Available at: https://courses.lumenlearning.com/boundless-microbiology/chapter/classification-of-microorganisms/ [Accessed 22 Apr. 2018].
 
 Giovannoni, S. (2012). Vitamins in the sea. Proceedings of the National Academy of Sciences, 109(35), pp.13888-13889.
 
