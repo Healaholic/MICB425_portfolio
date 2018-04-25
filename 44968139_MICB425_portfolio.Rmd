@@ -1156,6 +1156,19 @@ Given the challenges that currently exist from the use of OTUs as the definition
 
 In conclusion, the introduction of sequencing technology has allowed us to study the vast diversity of microbes in depth and accuracy never before possible. However, significant challenges persist in our current understanding of what defines a species. This, compounded by the fact that HGT plays a key role in the distribution of genes, means that it is unlikely that we will ever come to a perfect definition for what defines a species. However, the practical implications of refusing to define species altogether would be problematic. To this end, the introduction of new technologies that allow us to reach a clearer, more precise and more applicable understanding of what defines a species.       
 
+###Additional Readings
+
+[Cordero et al., 2012](https://www.ncbi.nlm.nih.gov/pubmed/23169633)
+
+
+[Giovannoni, 2012](http://www.pnas.org/content/109/35/13888)
+
+[Lundin et al., 2012](https://www.ncbi.nlm.nih.gov/pubmed/23760801)
+
+[Morris, Lenski and Zinser, 2012](http://mbio.asm.org/content/3/2/e00036-12.abstract)
+
+[Thompson et al., 2005](https://www.ncbi.nlm.nih.gov/pubmed/15731455)
+
 
 
 ###Module 03 references
@@ -1168,6 +1181,8 @@ Callahan, B., McMurdie, P. and Holmes, S. (2017). Exact sequence variants should
 
 Chen, W., Zhang, C., Cheng, Y., Zhang, S. and Zhao, H. (2013). A Comparison of Methods for Clustering 16S rRNA Sequences into OTUs. PLoS ONE, 8(8), p.e70837.
 
+Cordero, O., Ventouras, L., DeLong, E. and Polz, M. (2012). Public good dynamics drive evolution of iron acquisition strategies in natural bacterioplankton populations. Proceedings of the National Academy of Sciences, 109(49), pp.20059-20064.
+
 Edgar, R. (2017). Updating the 97% identity threshold for 16S ribosomal RNA OTUs. Bioinformatics.
 Welch, R., Burland, V., Plunkett, G., Redford, P., Roesch, P., Rasko, D., Buckles, E., Liou, S., Boutin, A., 
 
@@ -1175,6 +1190,8 @@ Falkowski, P., Fenchel, T. and Delong, E. (2008). The Microbial Engines That Dri
 
 Finotello, F., Mastrorilli, E. and Di Camillo, B. (2016). Measuring the diversity of the human microbiota with targeted next-generation sequencing. Briefings in Bioinformatics, p.bbw119.
 Courses.lumenlearning.com. (2018). Classification of Microorganisms | Boundless Microbiology. [online] Available at: https://courses.lumenlearning.com/boundless-microbiology/chapter/classification-of-microorganisms/ [Accessed 22 Apr. 2018].
+
+Giovannoni, S. (2012). Vitamins in the sea. Proceedings of the National Academy of Sciences, 109(35), pp.13888-13889.
 
 Hackett, J., Stroud, D., Mayhew, G., Rose, D., Zhou, S., Schwartz, D., Perna, N., Mobley, H., Donnenberg, M. and Blattner, F. (2002). Extensive mosaic structure revealed by the complete genome sequence of uropathogenic Escherichia coli. Proceedings of the National Academy of Sciences, 99(26), pp.17020-17024.
 
@@ -1184,8 +1201,12 @@ Kunin, V., Engelbrektson, A., Ochman, H. and Hugenholtz, P. (2010). Wrinkles in 
 
 Lundin, D., Severin, I., Logue, J., Östman, Ö., Andersson, A. and Lindström, E. (2012). Which sequencing depth is sufficient to describe patterns in bacterial ??- and ??-diversity?. Environmental Microbiology Reports, 4(3), pp.367-372.
 
+Morris, J., Lenski, R. and Zinser, E. (2012). The Black Queen Hypothesis: Evolution of Dependencies through Adaptive Gene Loss. mBio, 3(2), pp.e00036-12-e00036-12.
+
 Nisbet, E. and Sleep, N. (2001). The habitat and nature of early life. Nature, 409(6823), pp.1083-1091.
 L. Sogin, M., G. Morrison, H., A. Huber, J., Mark Welch, D., M. Huse, S., R. Neal, P., M. Arrieta, J. and J. Herndl, G. (2006). Microbial diversity in the deep sea and the underexplored ''rare biosphere''. PNAS, 103(32), pp.12115-12120.
+
+Thompson, J. (2005). Genotypic Diversity Within a Natural Coastal Bacterioplankton Population. Science, 307(5713), pp.1311-1313.
 
 Torres-Beltrán, M., Hawley, A., Capelle, D., Zaikova, E., Walsh, D., Mueller, A., Scofield, M., Payne, C., Pakhomova, L., Kheirandish, S., Finke, J., Bhatia, M., Shevchuk, O., Gies, E., Fairley, D., Michiels, C., Suttle, C., Whitney, F., Crowe, S., Tortell, P. and Hallam, S. (2017). A compendium of geochemical information from the Saanich Inlet water column. Scientific Data, 4, p.170159.
 

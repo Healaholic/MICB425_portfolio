@@ -1,0 +1,54 @@
+---
+title: "Project self-assessment of contributions"
+subtitle: "2018 Term 2 - MICB425"
+output: html_document
+---
+To facilitate group assessment, please indicate your contributions to the following aspects of your final group reports. You should provide short statements under the headers relevant to your work. For example, you could specify that you "wrote the first draft", "wrote the code to accomplish X figure or result", "troubleshot code", "interpreted results", etc.
+
+Include **separate** completed versions of this document for Project 1 **and** Project 2 in your portfolio repo; they do not need to be incorporated into the final knit portfolio html.
+
+## Abstract
+
+### Writing
+
+### Editing
+Looked through abstract and made minor changes.
+
+## Introduction
+
+### Literature research
+Compiled information relating to the planctomycetes phylum. 
+
+### Writing
+Wrote the portion on introducing planctomycetes as a phylum, and its metabolic significance.
+
+### Editing
+Edited all parts of the introduction for grammar and concise language
+
+## Methods
+
+### Writing
+Wrote first half of methods portion, including all headers for code chunks.
+
+### Editing
+Edited all of methods including code chunks.
+
+## Results
+
+### Anaysis 
+Commented on which figures to retain and to use.
+### Figures
+
+### Writing
+Helped write some parts of second half of results.(Few lines)
+### Editing
+Edited second half of results section briefly.
+
+## Discussion
+
+### Literature research
+
+### Writing
+Wrote 1 paragraph of second half of discussion.
+### Editing
+Made edits towards second half of discussion.
